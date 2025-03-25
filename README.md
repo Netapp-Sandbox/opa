@@ -30,7 +30,7 @@ These sessions are open format for community members. Come and ask about new fea
 - Watch OPA's [YouTube](https://www.youtube.com/channel/UClDMRN5HlqD3di5MMf-SV4A) channel for past office hours and other content.
 - Try OPA with the [Rego Playground](https://play.openpolicyagent.org) to experiment with policies and share your work.
 - View the [OPA Roadmap](https://docs.google.com/presentation/d/16QV6gvLDOV3I0_guPC3_19g6jHkEg3X9xqMYgtoCKrs/edit?usp=sharing) to see a high-level snapshot of OPA features in-progress and planned.
-- Check out the [ADOPTERS.md](./ADOPTERS.md) file for a list of production adopters. Does your organization use OPA in production? Support the OPA project by submitting a PR to add your organization to the list with a short description of your OPA use cases!
+- Check out the [ADOPTERS.md](./ADOPTERS.md) file for a list of production adopters. Does your organization use OPA in production? Support the OPA project by submitting a PR to add your organization to the list with a short description of your OPA use cases!!
 
 ## Want to download OPA?
 
